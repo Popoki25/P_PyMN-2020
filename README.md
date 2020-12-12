@@ -2,7 +2,7 @@
 # Universidad Autonoma de Baja California.
 Proyecto final de la materia de Programación y Métodos numéricos, Universidad Autónoma de Baja California, Ensenada.
 
-Contenido
+/////Contenido
 
 *Variables de programación en c
 

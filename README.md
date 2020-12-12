@@ -11,7 +11,7 @@ Contenido
   •	Anidadas 
   •	Múltiples 
 
-*Estructuras repetitivas.
+*Estructuras repetitivas:
   •	Ciclo for
   •	Ciclo while 
   •	Do while 

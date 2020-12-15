@@ -5,7 +5,7 @@ _En este repositorio se incluyen las lineas de codigo de todos los trabajos real
 
 **Contenido**
 
-* [Variables de programacion.] (https://github.com/Popoki25/P_PyMN-2020/tree/main/practica%201.%20Variables%20de%20programaci%C3%B3n%20en%20c)
+* [Variables de programacion.](https://github.com/Popoki25/P_PyMN-2020/tree/main/practica%201.%20Variables%20de%20programaci%C3%B3n%20en%20c)
 * Condicionales: 
 *Simples *Anidadas *Múltiples.
 

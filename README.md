@@ -1,10 +1,11 @@
-
+# Programacion y metodos numericos. 
 # Universidad Autonoma de Baja California. 
 
-/////Contenido
+_En este repositorio se incluyen las lineas de codigo de todos los trabajos realizados en lenguaje C durante el semestre_
+#Contenido
 
-*  Variables de entorno.
-*Condicionales:
+* Variables de entorno.
+* Condicionales:
   •	Simples 
   •	Anidadas 
   •	Múltiples 

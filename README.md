@@ -4,8 +4,7 @@ Proyecto final de la materia de Programación y Métodos numéricos, Universidad
 
 /////Contenido
 
-*Variables de programación en c
-
+*  Variables de entorno.
 *Condicionales:
   •	Simples 
   •	Anidadas 
